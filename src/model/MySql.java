@@ -23,7 +23,7 @@ public class MySql {
         if (connection == null) {
             
              Class.forName("com.mysql.cj.jdbc.Driver");
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/order_management_system_with_erp_db","root","**********");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/order_management_system_with_erp_db","root","*******");
             
         }
         
