@@ -87,7 +87,23 @@ Built for both front-end (customer) and back-end (management) use, the system en
 
 ![image alt](https://github.com/Kavindu-Vishmitha/Project_Order_Management_System_With_ERP_System/blob/80146380a6cb25216bc7477f35fe4eb7503137a9/screenshot/payroll_management.png)
 
+#### 👨‍💼 Stock Dashboard
 
+![image alt](https://github.com/Kavindu-Vishmitha/Project_Order_Management_System_With_ERP_System/blob/70a718346dff5a0f26a1714833cc1ee4c13a065d/screenshot/stock%20dashboard.png)
+
+#### ➕ Add Food 
+
+![image alt](https://github.com/Kavindu-Vishmitha/Project_Order_Management_System_With_ERP_System/blob/70a718346dff5a0f26a1714833cc1ee4c13a065d/screenshot/add_food(stock%20dashboard).png)
+
+#### 👨‍💼 Kitchen Dashboard
+
+![image alt](https://github.com/Kavindu-Vishmitha/Project_Order_Management_System_With_ERP_System/blob/70a718346dff5a0f26a1714833cc1ee4c13a065d/screenshot/kitchen_dashboard.png)
+
+## 📝 License
+
+This project is intended solely for **academic and educational purposes**.
+
+Any form of **commercial use, distribution, or modification** for profit is **strictly prohibited** without **explicit written permission** from the original authors.
 
 
 
